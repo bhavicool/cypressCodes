@@ -1,0 +1,14 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "gender":"Male",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "firstVegetable":"Cucumber:1",
+  "secondVegetable":"Beetroot:2",
+  "greenKartURL":"https://rahulshettyacademy.com/seleniumPractise/#/",
+  "totalOrderAmt":"112",
+  "expectedMsg":"Thank you, your order has been placed successfully  You'll be redirected to Home page shortly!!",
+  "expectedTermsErrorMsg":"Please accept Terms & Conditions - Required",
+  "expectedPromoCodeErrorMsg":"Empty code ..!",
+  "expectedEmptyCartErrorMsg":"You cart is empty!"
+}
